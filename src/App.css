@@ -1,0 +1,31 @@
+.form {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+
+}
+
+.input {
+  height: 100px;
+  width: 3px;
+}
+
+.submit {
+  min-height: 30px;
+  width: 70px;
+  padding: 30px, 15px;
+  border-radius: 5px;
+  background-color: rgb(255, 0, 72);
+}
+
+.form h2 {
+  color: azure;
+}
+
+.div.user {
+
+  border: 2px solid green;
+}
